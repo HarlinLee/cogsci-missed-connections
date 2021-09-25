@@ -1,0 +1,1971 @@
+{
+    "expr": "And(Composite(F.FId=188147891))",
+    "entities": [
+        {
+            "logprob": -44.948,
+            "prob": 0.0,
+            "Id": 2481821355,
+            "Ti": "lectures on the philosophy of the human mind vol 2 corrected from the last london ed",
+            "Y": 1828,
+            "CC": 0,
+            "ECC": 0,
+            "DOI": "10.1037/13925-000",
+            "S": [
+                {
+                    "Ty": 999,
+                    "U": "http://content.apa.org/books/13925-000"
+                }
+            ],
+            "AA": [
+                {
+                    "DAuN": "Thomas Brown",
+                    "AuN": "thomas brown",
+                    "AuId": 2493806351,
+                    "AfId": null,
+                    "S": 1
+                }
+            ],
+            "F": [
+                {
+                    "DFN": "Classics",
+                    "FN": "classics",
+                    "FId": 74916050
+                },
+                {
+                    "DFN": "History",
+                    "FN": "history",
+                    "FId": 95457728
+                },
+                {
+                    "DFN": "Cognitive science",
+                    "FN": "cognitive science",
+                    "FId": 188147891
+                }
+            ]
+        },
+        {
+            "logprob": -44.996,
+            "prob": 0.0,
+            "Id": 2490535070,
+            "Ti": "treatise on the philosophy of the human mind being the lectures of the late thomas brown m d vol ii abridged and distributed according to the natural divisions of the subject",
+            "Y": 1827,
+            "CC": 0,
+            "ECC": 0,
+            "DOI": "10.1037/11832-000",
+            "AA": [
+                {
+                    "DAuN": "Thomas Brown",
+                    "AuN": "thomas brown",
+                    "AuId": 2316645549,
+                    "AfId": null,
+                    "S": 1
+                },
+                {
+                    "DAuN": "Levi Hedge",
+                    "AuN": "levi hedge",
+                    "AuId": 2329424456,
+                    "AfId": null,
+                    "S": 2
+                }
+            ],
+            "F": [
+                {
+                    "DFN": "Subject (philosophy)",
+                    "FN": "subject",
+                    "FId": 2779082053
+                },
+                {
+                    "DFN": "Philosophy",
+                    "FN": "philosophy",
+                    "FId": 138885662
+                },
+                {
+                    "DFN": "Natural (music)",
+                    "FN": "natural",
+                    "FId": 78737354
+                },
+                {
+                    "DFN": "Classics",
+                    "FN": "classics",
+                    "FId": 74916050
+                },
+                {
+                    "DFN": "Cognitive science",
+                    "FN": "cognitive science",
+                    "FId": 188147891
+                }
+            ]
+        },
+        {
+            "logprob": -45.011,
+            "prob": 0.0,
+            "Id": 2493751346,
+            "Ti": "logic made easy or a short view of the aristotelic system of reasoning and its application to literature science and the general improvement of the mind designed chiefly for the students of the university of oxford",
+            "Y": 1809,
+            "CC": 0,
+            "ECC": 0,
+            "S": [
+                {
+                    "Ty": 1,
+                    "U": "https://philpapers.org/rec/KETLME"
+                }
+            ],
+            "AA": [
+                {
+                    "DAuN": "Henry Kett",
+                    "AuN": "henry kett",
+                    "AuId": 2486749084,
+                    "AfId": null,
+                    "S": 1
+                },
+                {
+                    "DAuN": "J. Parker",
+                    "AuN": "j parker",
+                    "AuId": 2100735159,
+                    "AfId": null,
+                    "S": 2
+                },
+                {
+                    "DAuN": "F. C. And J. Rivington",
+                    "AuN": "f c and j rivington",
+                    "AuId": 2492871497,
+                    "AfId": null,
+                    "S": 3
+                }
+            ],
+            "F": [
+                {
+                    "DFN": "Computational logic",
+                    "FN": "computational logic",
+                    "FId": 124047733
+                },
+                {
+                    "DFN": "Cognitive science",
+                    "FN": "cognitive science",
+                    "FId": 188147891
+                },
+                {
+                    "DFN": "Computer science",
+                    "FN": "computer science",
+                    "FId": 41008148
+                }
+            ]
+        },
+        {
+            "logprob": -45.023,
+            "prob": 0.0,
+            "Id": 2337945439,
+            "Ti": "letter to the honourable william dickson from thomas clark",
+            "Y": 1829,
+            "CC": 0,
+            "ECC": 0,
+            "AA": [
+                {
+                    "DAuN": "Thomas Clark",
+                    "AuN": "thomas clark",
+                    "AuId": 2656619999,
+                    "AfId": null,
+                    "S": 1
+                }
+            ],
+            "F": [
+                {
+                    "DFN": "Philosophy",
+                    "FN": "philosophy",
+                    "FId": 138885662
+                },
+                {
+                    "DFN": "Classics",
+                    "FN": "classics",
+                    "FId": 74916050
+                },
+                {
+                    "DFN": "Cognitive science",
+                    "FN": "cognitive science",
+                    "FId": 188147891
+                }
+            ]
+        },
+        {
+            "logprob": -45.114,
+            "prob": 0.0,
+            "Id": 2504898157,
+            "Ti": "letter iii the same subject continued observations on retarding the fecundation of queens",
+            "Y": 1808,
+            "CC": 0,
+            "ECC": 0,
+            "DOI": "10.1037/13480-003",
+            "AA": [
+                {
+                    "DAuN": "Francis Huber",
+                    "AuN": "francis huber",
+                    "AuId": 2489711193,
+                    "AfId": null,
+                    "S": 1
+                }
+            ],
+            "F": [
+                {
+                    "DFN": "Subject (philosophy)",
+                    "FN": "subject",
+                    "FId": 2779082053
+                },
+                {
+                    "DFN": "Cognitive science",
+                    "FN": "cognitive science",
+                    "FId": 188147891
+                },
+                {
+                    "DFN": "Computer science",
+                    "FN": "computer science",
+                    "FId": 41008148
+                }
+            ]
+        },
+        {
+            "logprob": -45.126,
+            "prob": 0.0,
+            "Id": 2491844611,
+            "Ti": "of reasoning and of deductive evidence",
+            "Y": 1816,
+            "CC": 0,
+            "ECC": 0,
+            "DOI": "10.1037/11677-002",
+            "AA": [
+                {
+                    "DAuN": "Dugald Stewart",
+                    "AuN": "dugald stewart",
+                    "AuId": 2499161649,
+                    "AfId": null,
+                    "S": 1
+                }
+            ],
+            "F": [
+                {
+                    "DFN": "Deductive reasoning",
+                    "FN": "deductive reasoning",
+                    "FId": 97364631
+                },
+                {
+                    "DFN": "Abductive reasoning",
+                    "FN": "abductive reasoning",
+                    "FId": 166088908
+                },
+                {
+                    "DFN": "Psychology of reasoning",
+                    "FN": "psychology of reasoning",
+                    "FId": 183521366
+                },
+                {
+                    "DFN": "Cognitive science",
+                    "FN": "cognitive science",
+                    "FId": 188147891
+                },
+                {
+                    "DFN": "Psychology",
+                    "FN": "psychology",
+                    "FId": 15744967
+                }
+            ]
+        },
+        {
+            "logprob": -45.127,
+            "prob": 0.0,
+            "Id": 2916399395,
+            "Ti": "an elementary system of physiology vol 2 2nd ed",
+            "Y": 1828,
+            "CC": 0,
+            "ECC": 0,
+            "DOI": "10.1037/11835-000",
+            "AA": [
+                {
+                    "DAuN": "John Bostock",
+                    "AuN": "john bostock",
+                    "AuId": 2916787057,
+                    "AfId": null,
+                    "S": 1
+                }
+            ],
+            "F": [
+                {
+                    "DFN": "Cognitive science",
+                    "FN": "cognitive science",
+                    "FId": 188147891
+                },
+                {
+                    "DFN": "Philosophy",
+                    "FN": "philosophy",
+                    "FId": 138885662
+                }
+            ]
+        },
+        {
+            "logprob": -45.188,
+            "prob": 0.0,
+            "Id": 370101385,
+            "Ti": "pamela or virtue rewarded in a series of familiar letters",
+            "Y": 1811,
+            "CC": 0,
+            "ECC": 0,
+            "S": [
+                {
+                    "Ty": 1,
+                    "U": "http://ci.nii.ac.jp/ncid/BA65237279"
+                }
+            ],
+            "AA": [
+                {
+                    "DAuN": "Samuel Richardson",
+                    "AuN": "samuel richardson",
+                    "AuId": 3089292699,
+                    "AfId": null,
+                    "S": 1
+                }
+            ],
+            "F": [
+                {
+                    "DFN": "Virtue",
+                    "FN": "virtue",
+                    "FId": 2777239683
+                },
+                {
+                    "DFN": "Cognitive science",
+                    "FN": "cognitive science",
+                    "FId": 188147891
+                },
+                {
+                    "DFN": "Epistemology",
+                    "FN": "epistemology",
+                    "FId": 111472728
+                },
+                {
+                    "DFN": "Psychology",
+                    "FN": "psychology",
+                    "FId": 15744967
+                },
+                {
+                    "DFN": "Series (mathematics)",
+                    "FN": "series",
+                    "FId": 121152540
+                }
+            ]
+        },
+        {
+            "logprob": -45.218,
+            "prob": 0.0,
+            "Id": 802573656,
+            "Ti": "letter 1807 june 25 commodore james barron to lieutenant sidney smith",
+            "Y": 1807,
+            "CC": 0,
+            "ECC": 0,
+            "S": [
+                {
+                    "Ty": 1,
+                    "U": "https://digitalarchive.wm.edu/handle/10288/18700"
+                }
+            ],
+            "AA": [
+                {
+                    "DAuN": "James Barron",
+                    "AuN": "barron james",
+                    "AuId": 2168632416,
+                    "AfId": null,
+                    "S": 1
+                }
+            ],
+            "F": [
+                {
+                    "DFN": "Art history",
+                    "FN": "art history",
+                    "FId": 52119013
+                },
+                {
+                    "DFN": "Cognitive science",
+                    "FN": "cognitive science",
+                    "FId": 188147891
+                },
+                {
+                    "DFN": "Computer science",
+                    "FN": "computer science",
+                    "FId": 41008148
+                }
+            ]
+        },
+        {
+            "logprob": -45.222,
+            "prob": 0.0,
+            "Id": 624642005,
+            "Ti": "essay on the application of the organology of the brain to education",
+            "Y": 1815,
+            "CC": 0,
+            "ECC": 0,
+            "S": [
+                {
+                    "Ty": 999,
+                    "U": "http://ci.nii.ac.jp/ncid/BA60010301?l=en"
+                }
+            ],
+            "AA": [
+                {
+                    "DAuN": "T. Forster",
+                    "AuN": "t forster",
+                    "AuId": 2376500673,
+                    "AfId": null,
+                    "S": 1
+                }
+            ],
+            "F": [
+                {
+                    "DFN": "Organology",
+                    "FN": "organology",
+                    "FId": 86221900
+                },
+                {
+                    "DFN": "Cognitive science",
+                    "FN": "cognitive science",
+                    "FId": 188147891
+                },
+                {
+                    "DFN": "Psychology",
+                    "FN": "psychology",
+                    "FId": 15744967
+                }
+            ]
+        },
+        {
+            "logprob": -45.225,
+            "prob": 0.0,
+            "Id": 2341607156,
+            "Ti": "letter to the honourable william dickson from john traihar",
+            "Y": 1825,
+            "CC": 0,
+            "ECC": 0,
+            "S": [
+                {
+                    "Ty": 1,
+                    "U": "https://dr.library.brocku.ca/handle/10464/8955"
+                }
+            ],
+            "AA": [
+                {
+                    "DAuN": "John Traihar",
+                    "AuN": "john traihar",
+                    "AuId": 2342296814,
+                    "AfId": null,
+                    "S": 1
+                }
+            ],
+            "F": [
+                {
+                    "DFN": "Art",
+                    "FN": "art",
+                    "FId": 142362112
+                },
+                {
+                    "DFN": "Classics",
+                    "FN": "classics",
+                    "FId": 74916050
+                },
+                {
+                    "DFN": "Cognitive science",
+                    "FN": "cognitive science",
+                    "FId": 188147891
+                }
+            ]
+        },
+        {
+            "logprob": -45.361,
+            "prob": 0.0,
+            "Id": 2749165437,
+            "Ti": "table talk or original essays vol 1",
+            "Y": 1824,
+            "CC": 0,
+            "ECC": 0,
+            "AA": [
+                {
+                    "DAuN": "William Hazlitt",
+                    "AuN": "hazlitt william",
+                    "AuId": 2747813696,
+                    "AfId": null,
+                    "S": 1
+                }
+            ],
+            "F": [
+                {
+                    "DFN": "Table (database)",
+                    "FN": "table",
+                    "FId": 45235069
+                },
+                {
+                    "DFN": "Art history",
+                    "FN": "art history",
+                    "FId": 52119013
+                },
+                {
+                    "DFN": "History",
+                    "FN": "history",
+                    "FId": 95457728
+                },
+                {
+                    "DFN": "Cognitive science",
+                    "FN": "cognitive science",
+                    "FId": 188147891
+                }
+            ]
+        },
+        {
+            "logprob": -45.434,
+            "prob": 0.0,
+            "Id": 2400959450,
+            "Ti": "corollaries from a treatise on the cerebellum and different parts of the brain in epileptics",
+            "Y": 1813,
+            "CC": 0,
+            "ECC": 0,
+            "DOI": "10.1056/NEJM181310010020402",
+            "S": [
+                {
+                    "Ty": 1,
+                    "U": "https://europepmc.org/articles/PMC5581589"
+                },
+                {
+                    "Ty": 1,
+                    "U": "https://pubmed.ncbi.nlm.nih.gov/30493614/"
+                },
+                {
+                    "Ty": 1,
+                    "U": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5581589"
+                },
+                {
+                    "Ty": 1,
+                    "U": "https://www.nejm.org/doi/full/10.1056/NEJM181310010020402"
+                }
+            ],
+            "AA": [
+                {
+                    "DAuN": "Wenzel",
+                    "AuN": "wenzel",
+                    "AuId": 3025068579,
+                    "AfId": null,
+                    "S": 1
+                }
+            ],
+            "F": [
+                {
+                    "DFN": "Cognitive science",
+                    "FN": "cognitive science",
+                    "FId": 188147891
+                },
+                {
+                    "DFN": "MEDLINE",
+                    "FN": "medline",
+                    "FId": 2779473830
+                },
+                {
+                    "DFN": "Psychology",
+                    "FN": "psychology",
+                    "FId": 15744967
+                },
+                {
+                    "DFN": "Cerebellum",
+                    "FN": "cerebellum",
+                    "FId": 2779652256
+                }
+            ],
+            "J": {
+                "JN": "the new england journal of medicine surgery and collateral branches of science",
+                "JId": 2764587522
+            }
+        },
+        {
+            "logprob": -45.474,
+            "prob": 0.0,
+            "Id": 2495126323,
+            "Ti": "progress of the mind in the acquisition of ideas continued",
+            "Y": 1822,
+            "CC": 0,
+            "ECC": 0,
+            "DOI": "10.1037/11696-027",
+            "AA": [
+                {
+                    "DAuN": "Frederick Beasley",
+                    "AuN": "frederick beasley",
+                    "AuId": 2479715255,
+                    "AfId": null,
+                    "S": 1
+                }
+            ],
+            "F": [
+                {
+                    "DFN": "Epistemology",
+                    "FN": "epistemology",
+                    "FId": 111472728
+                },
+                {
+                    "DFN": "Cognitive science",
+                    "FN": "cognitive science",
+                    "FId": 188147891
+                },
+                {
+                    "DFN": "Philosophy",
+                    "FN": "philosophy",
+                    "FId": 138885662
+                }
+            ]
+        },
+        {
+            "logprob": -45.54,
+            "prob": 0.0,
+            "Id": 2495267889,
+            "Ti": "lectures on the philosophy of the human mind in 3 volumes vol 1",
+            "Y": 1824,
+            "CC": 0,
+            "ECC": 0,
+            "DOI": "10.1037/11699-000",
+            "S": [
+                {
+                    "Ty": 999,
+                    "U": "http://content.apa.org/books/11699-000"
+                }
+            ],
+            "AA": [
+                {
+                    "DAuN": "Thomas Brown",
+                    "AuN": "thomas brown",
+                    "AuId": 2491169918,
+                    "AfId": null,
+                    "S": 1
+                }
+            ],
+            "F": [
+                {
+                    "DFN": "Philosophy",
+                    "FN": "philosophy",
+                    "FId": 138885662
+                },
+                {
+                    "DFN": "Cognitive science",
+                    "FN": "cognitive science",
+                    "FId": 188147891
+                }
+            ]
+        },
+        {
+            "logprob": -45.54,
+            "prob": 0.0,
+            "Id": 2483814891,
+            "Ti": "an introductory disquisition concerning the nature of mind",
+            "Y": 1812,
+            "CC": 0,
+            "ECC": 0,
+            "DOI": "10.1037/11976-001",
+            "AA": [
+                {
+                    "DAuN": "Joseph Buchanan",
+                    "AuN": "joseph buchanan",
+                    "AuId": 2485953693,
+                    "AfId": null,
+                    "S": 1
+                }
+            ],
+            "F": [
+                {
+                    "DFN": "Epistemology",
+                    "FN": "epistemology",
+                    "FId": 111472728
+                },
+                {
+                    "DFN": "Cognitive science",
+                    "FN": "cognitive science",
+                    "FId": 188147891
+                },
+                {
+                    "DFN": "Psychology",
+                    "FN": "psychology",
+                    "FId": 15744967
+                }
+            ]
+        },
+        {
+            "logprob": -45.54,
+            "prob": 0.0,
+            "Id": 354591742,
+            "Ti": "lectures on the philosophy of the human mind in four volumes",
+            "Y": 1824,
+            "CC": 0,
+            "ECC": 0,
+            "S": [
+                {
+                    "Ty": 1,
+                    "U": "https://ci.nii.ac.jp/ncid/BA72215334"
+                }
+            ],
+            "AA": [
+                {
+                    "DAuN": "Thomas Brown",
+                    "AuN": "thomas brown",
+                    "AuId": 2284060327,
+                    "AfId": null,
+                    "S": 1
+                }
+            ],
+            "F": [
+                {
+                    "DFN": "Epistemology",
+                    "FN": "epistemology",
+                    "FId": 111472728
+                },
+                {
+                    "DFN": "Philosophy",
+                    "FN": "philosophy",
+                    "FId": 138885662
+                },
+                {
+                    "DFN": "Cognitive science",
+                    "FN": "cognitive science",
+                    "FId": 188147891
+                }
+            ]
+        },
+        {
+            "logprob": -45.719,
+            "prob": 0.0,
+            "Id": 2483524190,
+            "Ti": "essay iii of memory",
+            "Y": 1803,
+            "CC": 0,
+            "ECC": 0,
+            "DOI": "10.1093/OSEO/INSTANCE.00106538",
+            "AA": [
+                {
+                    "DAuN": "Thomas Reid",
+                    "AuN": "thomas reid",
+                    "AuId": 2124672951,
+                    "AfId": null,
+                    "S": 1
+                }
+            ],
+            "F": [
+                {
+                    "DFN": "Cognitive science",
+                    "FN": "cognitive science",
+                    "FId": 188147891
+                },
+                {
+                    "DFN": "Cognitive psychology",
+                    "FN": "cognitive psychology",
+                    "FId": 180747234
+                },
+                {
+                    "DFN": "Psychology",
+                    "FN": "psychology",
+                    "FId": 15744967
+                }
+            ]
+        },
+        {
+            "logprob": -45.719,
+            "prob": 0.0,
+            "Id": 2480783680,
+            "Ti": "essay viii of taste",
+            "Y": 1803,
+            "CC": 0,
+            "ECC": 0,
+            "DOI": "10.1093/OSEO/INSTANCE.00106543",
+            "AA": [
+                {
+                    "DAuN": "Thomas Reid",
+                    "AuN": "thomas reid",
+                    "AuId": 2124672951,
+                    "AfId": null,
+                    "S": 1
+                }
+            ],
+            "F": [
+                {
+                    "DFN": "Taste (sociology)",
+                    "FN": "taste",
+                    "FId": 162017022
+                },
+                {
+                    "DFN": "Psychology",
+                    "FN": "psychology",
+                    "FId": 15744967
+                },
+                {
+                    "DFN": "Aesthetics",
+                    "FN": "aesthetics",
+                    "FId": 107038049
+                },
+                {
+                    "DFN": "Cognitive science",
+                    "FN": "cognitive science",
+                    "FId": 188147891
+                }
+            ]
+        },
+        {
+            "logprob": -45.719,
+            "prob": 0.0,
+            "Id": 2476777924,
+            "Ti": "essay vi of judgment",
+            "Y": 1803,
+            "CC": 0,
+            "ECC": 0,
+            "DOI": "10.1093/OSEO/INSTANCE.00106541",
+            "S": [
+                {
+                    "U": "https://www.oxfordscholarlyeditions.com/view/10.1093/actrade/9780748611898.book.1/actrade-9780748611898-book-1"
+                }
+            ],
+            "AA": [
+                {
+                    "DAuN": "Thomas Reid",
+                    "AuN": "thomas reid",
+                    "AuId": 2124672951,
+                    "AfId": null,
+                    "S": 1
+                }
+            ],
+            "F": [
+                {
+                    "DFN": "Epistemology",
+                    "FN": "epistemology",
+                    "FId": 111472728
+                },
+                {
+                    "DFN": "Psychology",
+                    "FN": "psychology",
+                    "FId": 15744967
+                },
+                {
+                    "DFN": "Cognitive science",
+                    "FN": "cognitive science",
+                    "FId": 188147891
+                }
+            ]
+        },
+        {
+            "logprob": -45.747,
+            "prob": 0.0,
+            "Id": 2499942329,
+            "Ti": "book v the philosophy of human knowledge",
+            "Y": 1822,
+            "CC": 0,
+            "ECC": 0,
+            "DOI": "10.1037/11979-005",
+            "AA": [
+                {
+                    "DAuN": "Alexander Jamieson",
+                    "AuN": "alexander jamieson",
+                    "AuId": 2477529230,
+                    "AfId": null,
+                    "S": 1
+                }
+            ],
+            "F": [
+                {
+                    "DFN": "Philosophy education",
+                    "FN": "philosophy education",
+                    "FId": 511723319
+                },
+                {
+                    "DFN": "Western philosophy",
+                    "FN": "western philosophy",
+                    "FId": 170143251
+                },
+                {
+                    "DFN": "Philosophy of computer science",
+                    "FN": "philosophy of computer science",
+                    "FId": 31005864
+                },
+                {
+                    "DFN": "Philosophy of psychology",
+                    "FN": "philosophy of psychology",
+                    "FId": 90477839
+                },
+                {
+                    "DFN": "Psychology, Philosophy and Physiology",
+                    "FN": "psychology philosophy and physiology",
+                    "FId": 540984547
+                },
+                {
+                    "DFN": "Philosophy of sport",
+                    "FN": "philosophy of sport",
+                    "FId": 514839276
+                },
+                {
+                    "DFN": "Causal theory of knowledge",
+                    "FN": "causal theory of knowledge",
+                    "FId": 73529369
+                },
+                {
+                    "DFN": "Philosophy of medicine",
+                    "FN": "philosophy of medicine",
+                    "FId": 121242521
+                },
+                {
+                    "DFN": "Philosophy",
+                    "FN": "philosophy",
+                    "FId": 138885662
+                },
+                {
+                    "DFN": "Epistemology",
+                    "FN": "epistemology",
+                    "FId": 111472728
+                },
+                {
+                    "DFN": "Cognitive science",
+                    "FN": "cognitive science",
+                    "FId": 188147891
+                }
+            ]
+        },
+        {
+            "logprob": -45.793,
+            "prob": 0.0,
+            "Id": 2489960288,
+            "Ti": "a course of medical studies containing a comparative view of the anatomical structure of man and of animals a history of diseases and an account of the knowledge hitherto acquired with regard to the regular action of the diffe",
+            "Y": 1803,
+            "CC": 0,
+            "ECC": 0,
+            "DOI": "10.5962/BHL.TITLE.53465",
+            "S": [
+                {
+                    "Ty": 1,
+                    "U": "http://www.biodiversitylibrary.org/bibliography/53465"
+                }
+            ],
+            "AA": [
+                {
+                    "DAuN": "Jean Burdin",
+                    "AuN": "jean burdin",
+                    "AuId": 2489246858,
+                    "AfId": null,
+                    "S": 1
+                }
+            ],
+            "F": [
+                {
+                    "DFN": "Action (philosophy)",
+                    "FN": "action",
+                    "FId": 2778032263
+                },
+                {
+                    "DFN": "Cognitive science",
+                    "FN": "cognitive science",
+                    "FId": 188147891
+                },
+                {
+                    "DFN": "Structure (mathematical logic)",
+                    "FN": "structure",
+                    "FId": 191617201
+                },
+                {
+                    "DFN": "Physiology",
+                    "FN": "physiology",
+                    "FId": 42407357
+                },
+                {
+                    "DFN": "Biology",
+                    "FN": "biology",
+                    "FId": 86803240
+                }
+            ]
+        },
+        {
+            "logprob": -45.851,
+            "prob": 0.0,
+            "Id": 2316552969,
+            "Ti": "letter to william dickson from thomas clark",
+            "Y": 1821,
+            "CC": 0,
+            "ECC": 0,
+            "S": [
+                {
+                    "Ty": 1,
+                    "U": "https://dr.library.brocku.ca/handle/10464/8953"
+                }
+            ],
+            "AA": [
+                {
+                    "DAuN": "Thomas Clark",
+                    "AuN": "thomas clark",
+                    "AuId": 2620806000,
+                    "AfId": null,
+                    "S": 1
+                }
+            ],
+            "F": [
+                {
+                    "DFN": "Philosophy",
+                    "FN": "philosophy",
+                    "FId": 138885662
+                },
+                {
+                    "DFN": "Art history",
+                    "FN": "art history",
+                    "FId": 52119013
+                },
+                {
+                    "DFN": "Cognitive science",
+                    "FN": "cognitive science",
+                    "FId": 188147891
+                }
+            ]
+        },
+        {
+            "logprob": -45.878,
+            "prob": 0.0,
+            "Id": 3024229467,
+            "Ti": "observations on some curious physiological phenomena witnessed in a case of fever",
+            "Y": 1819,
+            "CC": 0,
+            "ECC": 0,
+            "S": [
+                {
+                    "Ty": 1,
+                    "U": "https://www.ncbi.nlm.nih.gov/pubmed/30494123"
+                }
+            ],
+            "AA": [
+                {
+                    "DAuN": "P T James",
+                    "AuN": "p t james",
+                    "AuId": 3024162325,
+                    "AfId": null,
+                    "S": 1
+                }
+            ],
+            "F": [
+                {
+                    "DFN": "Cognitive science",
+                    "FN": "cognitive science",
+                    "FId": 188147891
+                },
+                {
+                    "DFN": "History",
+                    "FN": "history",
+                    "FId": 95457728
+                },
+                {
+                    "DFN": "Physiological Phenomenon",
+                    "FN": "physiological phenomenon",
+                    "FId": 2910050221
+                }
+            ]
+        },
+        {
+            "logprob": -45.954,
+            "prob": 0.0,
+            "Id": 1588179622,
+            "Ti": "essays on the powers of the human mind to which are prefixed an analysis of aristotle s logic",
+            "Y": 1820,
+            "CC": 0,
+            "ECC": 0,
+            "S": [
+                {
+                    "Ty": 1,
+                    "U": "http://ci.nii.ac.jp/ncid/BA60185484"
+                }
+            ],
+            "AA": [
+                {
+                    "DAuN": "Thomas Reid",
+                    "AuN": "thomas reid",
+                    "AuId": 2567562070,
+                    "AfId": null,
+                    "S": 1
+                }
+            ],
+            "F": [
+                {
+                    "DFN": "Philosophy",
+                    "FN": "philosophy",
+                    "FId": 138885662
+                },
+                {
+                    "DFN": "Cognitive science",
+                    "FN": "cognitive science",
+                    "FId": 188147891
+                }
+            ]
+        },
+        {
+            "logprob": -46.057,
+            "prob": 0.0,
+            "Id": 2334356570,
+            "Ti": "letter to the honourable william dickson from mr robinson",
+            "Y": 1819,
+            "CC": 0,
+            "ECC": 0,
+            "AA": [
+                {
+                    "DAuN": "Robinson",
+                    "AuN": "robinson",
+                    "AuId": 2320368758,
+                    "AfId": null,
+                    "S": 1
+                }
+            ],
+            "F": [
+                {
+                    "DFN": "Philosophy",
+                    "FN": "philosophy",
+                    "FId": 138885662
+                },
+                {
+                    "DFN": "Classics",
+                    "FN": "classics",
+                    "FId": 74916050
+                },
+                {
+                    "DFN": "Cognitive science",
+                    "FN": "cognitive science",
+                    "FId": 188147891
+                }
+            ]
+        },
+        {
+            "logprob": -46.127,
+            "prob": 0.0,
+            "Id": 2481774163,
+            "Ti": "essay vii of reasoning",
+            "Y": 1803,
+            "CC": 0,
+            "ECC": 0,
+            "DOI": "10.1093/OSEO/INSTANCE.00106542",
+            "AA": [
+                {
+                    "DAuN": "Thomas Reid",
+                    "AuN": "thomas reid",
+                    "AuId": 2124672951,
+                    "AfId": null,
+                    "S": 1
+                }
+            ],
+            "F": [
+                {
+                    "DFN": "Epistemology",
+                    "FN": "epistemology",
+                    "FId": 111472728
+                },
+                {
+                    "DFN": "Cognitive science",
+                    "FN": "cognitive science",
+                    "FId": 188147891
+                },
+                {
+                    "DFN": "Philosophy",
+                    "FN": "philosophy",
+                    "FId": 138885662
+                }
+            ]
+        },
+        {
+            "logprob": -46.215,
+            "prob": 0.0,
+            "Id": 2499103817,
+            "Ti": "the principles of physiological and physical science comprehending the ends for which animated beings were created and examination of the unnatural and artificial systems of philosophy which now prevail by richard saumarez esq",
+            "Y": 1812,
+            "CC": 0,
+            "ECC": 0,
+            "DOI": "10.5962/BHL.TITLE.20893",
+            "S": [
+                {
+                    "Ty": 1,
+                    "U": "https://core.ac.uk/display/4634956"
+                },
+                {
+                    "Ty": 1,
+                    "U": "https://www.biodiversitylibrary.org/bibliography/20893"
+                }
+            ],
+            "AA": [
+                {
+                    "DAuN": "Richard Saumarez",
+                    "AuN": "richard saumarez",
+                    "AuId": 2490038922,
+                    "AfId": null,
+                    "S": 1
+                }
+            ],
+            "F": [
+                {
+                    "DFN": "Physical science",
+                    "FN": "physical science",
+                    "FId": 6314898
+                },
+                {
+                    "DFN": "Cognitive science",
+                    "FN": "cognitive science",
+                    "FId": 188147891
+                },
+                {
+                    "DFN": "Sociology",
+                    "FN": "sociology",
+                    "FId": 144024400
+                },
+                {
+                    "DFN": "Artificial systems",
+                    "FN": "artificial systems",
+                    "FId": 2989257223
+                }
+            ]
+        },
+        {
+            "logprob": -46.41,
+            "prob": 0.0,
+            "Id": 2606303273,
+            "Ti": "the alternative interpretations and encoding of neighborhood disorder perceptions a textual analysis of open ended survey responses to photographs",
+            "Y": 1800,
+            "CC": 0,
+            "ECC": 0,
+            "S": [
+                {
+                    "Ty": 1,
+                    "U": "https://asu.pure.elsevier.com/en/publications/the-alternative-interpretations-and-encoding-of-neighborhood-diso"
+                }
+            ],
+            "AA": [
+                {
+                    "DAuN": "Danielle Wallace",
+                    "AuN": "danielle wallace",
+                    "AuId": 2118243585,
+                    "AfId": null,
+                    "S": 1
+                },
+                {
+                    "DAuN": "Brooks Louton",
+                    "AuN": "brooks louton",
+                    "AuId": 2279076735,
+                    "AfId": null,
+                    "S": 2
+                }
+            ],
+            "F": [
+                {
+                    "DFN": "Encoding (semiotics)",
+                    "FN": "encoding",
+                    "FId": 161082625
+                },
+                {
+                    "DFN": "Perception",
+                    "FN": "perception",
+                    "FId": 26760741
+                },
+                {
+                    "DFN": "Cognitive psychology",
+                    "FN": "cognitive psychology",
+                    "FId": 180747234
+                },
+                {
+                    "DFN": "Psychology",
+                    "FN": "psychology",
+                    "FId": 15744967
+                },
+                {
+                    "DFN": "Cognitive science",
+                    "FN": "cognitive science",
+                    "FId": 188147891
+                }
+            ]
+        },
+        {
+            "logprob": -46.47,
+            "prob": 0.0,
+            "Id": 2497211978,
+            "Ti": "essay iii part ii of animal principles of action",
+            "Y": 1803,
+            "CC": 0,
+            "ECC": 0,
+            "DOI": "10.1037/11803-004",
+            "AA": [
+                {
+                    "DAuN": "Thomas Reid",
+                    "AuN": "thomas reid",
+                    "AuId": 2486999726,
+                    "AfId": null,
+                    "S": 1
+                }
+            ],
+            "F": [
+                {
+                    "DFN": "Action (philosophy)",
+                    "FN": "action",
+                    "FId": 2778032263
+                },
+                {
+                    "DFN": "Cognitive science",
+                    "FN": "cognitive science",
+                    "FId": 188147891
+                },
+                {
+                    "DFN": "Epistemology",
+                    "FN": "epistemology",
+                    "FId": 111472728
+                },
+                {
+                    "DFN": "Psychology",
+                    "FN": "psychology",
+                    "FId": 15744967
+                }
+            ]
+        },
+        {
+            "logprob": -46.677,
+            "prob": 0.0,
+            "Id": 2567323649,
+            "Ti": "letter 1801 n p",
+            "Y": 1801,
+            "CC": 0,
+            "ECC": 0,
+            "AA": [
+                {
+                    "DAuN": "Thomas Jefferson",
+                    "AuN": "jefferson thomas",
+                    "AuId": 2566121826,
+                    "AfId": null,
+                    "S": 1
+                }
+            ],
+            "F": [
+                {
+                    "DFN": "Psychology",
+                    "FN": "psychology",
+                    "FId": 15744967
+                },
+                {
+                    "DFN": "Cognitive science",
+                    "FN": "cognitive science",
+                    "FId": 188147891
+                },
+                {
+                    "DFN": "Epistemology",
+                    "FN": "epistemology",
+                    "FId": 111472728
+                }
+            ]
+        },
+        {
+            "logprob": -46.781,
+            "prob": 0.0,
+            "Id": 3096121957,
+            "Ti": "hints on the subject of animal secretions abstract",
+            "Y": 1800,
+            "CC": 0,
+            "ECC": 0,
+            "S": [
+                {
+                    "Ty": 1,
+                    "U": "http://ui.adsabs.harvard.edu/abs/1800RSPS....1..342H/abstract"
+                }
+            ],
+            "AA": [
+                {
+                    "DAuN": "Everard Home",
+                    "AuN": "everard home",
+                    "AuId": 3095652060,
+                    "AfId": null,
+                    "S": 1
+                }
+            ],
+            "F": [
+                {
+                    "DFN": "Subject (philosophy)",
+                    "FN": "subject",
+                    "FId": 2779082053
+                },
+                {
+                    "DFN": "Cognitive science",
+                    "FN": "cognitive science",
+                    "FId": 188147891
+                },
+                {
+                    "DFN": "Psychology",
+                    "FN": "psychology",
+                    "FId": 15744967
+                }
+            ]
+        },
+        {
+            "logprob": -47.119,
+            "prob": 0.0,
+            "Id": 819315706,
+            "Ti": "copy of letter james barron to robert smith secretary of the navy",
+            "Y": 1807,
+            "CC": 0,
+            "ECC": 0,
+            "AA": [
+                {
+                    "DAuN": "James Barron",
+                    "AuN": "barron james",
+                    "AuId": 2121079778,
+                    "AfId": null,
+                    "S": 1
+                }
+            ],
+            "F": [
+                {
+                    "DFN": "Navy",
+                    "FN": "navy",
+                    "FId": 2776746162
+                },
+                {
+                    "DFN": "Art history",
+                    "FN": "art history",
+                    "FId": 52119013
+                },
+                {
+                    "DFN": "History",
+                    "FN": "history",
+                    "FId": 95457728
+                },
+                {
+                    "DFN": "Cognitive science",
+                    "FN": "cognitive science",
+                    "FId": 188147891
+                }
+            ]
+        },
+        {
+            "logprob": -47.441,
+            "prob": 0.0,
+            "Id": 2597380417,
+            "Ti": "logic of evaluation in l e sullivan ed the sage glossary of the social and behavioral sciences p 188",
+            "Y": 1800,
+            "CC": 0,
+            "ECC": 0,
+            "AA": [
+                {
+                    "DAuN": "Daniela C Schroeter",
+                    "AuN": "daniela c schroeter",
+                    "AuId": 2595816488,
+                    "AfId": null,
+                    "S": 1
+                },
+                {
+                    "DAuN": "L.E. Sullivan",
+                    "AuN": "l e sullivan",
+                    "AuId": 2657074173,
+                    "AfId": null,
+                    "S": 2
+                }
+            ],
+            "F": [
+                {
+                    "DFN": "Glossary",
+                    "FN": "glossary",
+                    "FId": 2780031656
+                },
+                {
+                    "DFN": "Behavioural sciences",
+                    "FN": "behavioural sciences",
+                    "FId": 5570062
+                },
+                {
+                    "DFN": "Sociology",
+                    "FN": "sociology",
+                    "FId": 144024400
+                },
+                {
+                    "DFN": "Library science",
+                    "FN": "library science",
+                    "FId": 161191863
+                },
+                {
+                    "DFN": "Cognitive science",
+                    "FN": "cognitive science",
+                    "FId": 188147891
+                },
+                {
+                    "DFN": "SAGE",
+                    "FN": "sage",
+                    "FId": 2775870830
+                }
+            ]
+        },
+        {
+            "logprob": -47.532,
+            "prob": 0.0,
+            "Id": 2485555760,
+            "Ti": "iii observations on an antient symbol of macedon in a letter from taylor combe esq f a s to charles townley esq f r s and f a s",
+            "Y": 1803,
+            "CC": 0,
+            "ECC": 0,
+            "DOI": "10.1017/S0261340900027144",
+            "IA": {
+                "IndexLength": 81,
+                "InvertedIndex": {
+                    "I": [
+                        0,
+                        48
+                    ],
+                    "had": [
+                        1
+                    ],
+                    "lately": [
+                        2
+                    ],
+                    "an": [
+                        3,
+                        7
+                    ],
+                    "opportunity": [
+                        4
+                    ],
+                    "of": [
+                        5,
+                        11,
+                        22,
+                        29,
+                        42,
+                        66,
+                        79
+                    ],
+                    "procuring": [
+                        6
+                    ],
+                    "antient": [
+                        8,
+                        30
+                    ],
+                    "bronze": [
+                        9,
+                        38
+                    ],
+                    "figure": [
+                        10
+                    ],
+                    "a": [
+                        12
+                    ],
+                    "goat": [
+                        13
+                    ],
+                    "with": [
+                        14,
+                        54
+                    ],
+                    "one": [
+                        15
+                    ],
+                    "horn,": [
+                        16
+                    ],
+                    "which": [
+                        17
+                    ],
+                    "was": [
+                        18
+                    ],
+                    "the": [
+                        19,
+                        27,
+                        55,
+                        77
+                    ],
+                    "old": [
+                        20
+                    ],
+                    "symbol": [
+                        21,
+                        41
+                    ],
+                    "Macedon.": [
+                        23
+                    ],
+                    "As": [
+                        24
+                    ],
+                    "figures,": [
+                        25
+                    ],
+                    "representing": [
+                        26
+                    ],
+                    "types": [
+                        28
+                    ],
+                    "countries,": [
+                        31
+                    ],
+                    "are": [
+                        32
+                    ],
+                    "extremely": [
+                        33
+                    ],
+                    "rare,": [
+                        34
+                    ],
+                    "and": [
+                        35
+                    ],
+                    "as": [
+                        36
+                    ],
+                    "neither": [
+                        37
+                    ],
+                    "nor": [
+                        39
+                    ],
+                    "marble": [
+                        40
+                    ],
+                    "Macedon": [
+                        43
+                    ],
+                    "has": [
+                        44
+                    ],
+                    "been": [
+                        45
+                    ],
+                    "hitherto": [
+                        46
+                    ],
+                    "noticed,": [
+                        47
+                    ],
+                    "beg": [
+                        49
+                    ],
+                    "leave": [
+                        50
+                    ],
+                    "to": [
+                        51,
+                        76
+                    ],
+                    "trouble": [
+                        52
+                    ],
+                    "you": [
+                        53,
+                        61,
+                        69
+                    ],
+                    "few": [
+                        56
+                    ],
+                    "following": [
+                        57
+                    ],
+                    "observations,": [
+                        58
+                    ],
+                    "which,": [
+                        59
+                    ],
+                    "if": [
+                        60
+                    ],
+                    "should": [
+                        62
+                    ],
+                    "think": [
+                        63
+                    ],
+                    "them": [
+                        64
+                    ],
+                    "worthy": [
+                        65
+                    ],
+                    "that": [
+                        67
+                    ],
+                    "honour,": [
+                        68
+                    ],
+                    "will": [
+                        70
+                    ],
+                    "much": [
+                        71
+                    ],
+                    "oblige": [
+                        72
+                    ],
+                    "me": [
+                        73
+                    ],
+                    "by": [
+                        74
+                    ],
+                    "presenting": [
+                        75
+                    ],
+                    "Society": [
+                        78
+                    ],
+                    "Antiquaries.": [
+                        80
+                    ]
+                }
+            },
+            "S": [
+                {
+                    "Ty": 1,
+                    "U": "https://www.cambridge.org/core/journals/archaeologia/article/iii-observations-on-an-antient-symbol-of-macedon-in-a-letter-from-taylor-combe-esq-f-a-s-to-charles-townley-esq-f-r-s-and-f-a-s/6C94BE653C6926025BB16AC7CFB1268C"
+                }
+            ],
+            "AA": [
+                {
+                    "DAuN": "Taylor Combe",
+                    "AuN": "taylor combe",
+                    "AuId": 2490977225,
+                    "AfId": null,
+                    "S": 1
+                }
+            ],
+            "F": [
+                {
+                    "DFN": "French horn",
+                    "FN": "horn",
+                    "FId": 152076505
+                },
+                {
+                    "DFN": "Symbol",
+                    "FN": "symbol",
+                    "FId": 128361363
+                },
+                {
+                    "DFN": "Bronze",
+                    "FN": "bronze",
+                    "FId": 2778478046
+                },
+                {
+                    "DFN": "Honour",
+                    "FN": "honour",
+                    "FId": 2780110125
+                },
+                {
+                    "DFN": "Ancient history",
+                    "FN": "ancient history",
+                    "FId": 195244886
+                },
+                {
+                    "DFN": "History",
+                    "FN": "history",
+                    "FId": 95457728
+                },
+                {
+                    "DFN": "Cognitive science",
+                    "FN": "cognitive science",
+                    "FId": 188147891
+                }
+            ]
+        },
+        {
+            "logprob": -47.712,
+            "prob": 0.0,
+            "Id": 2500597317,
+            "Ti": "essays on the powers of the human mind vol 3 essays on the active powers of man",
+            "Y": 1803,
+            "CC": 0,
+            "ECC": 0,
+            "DOI": "10.1037/11803-000",
+            "AA": [
+                {
+                    "DAuN": "Thomas Reid",
+                    "AuN": "thomas reid",
+                    "AuId": 2479941090,
+                    "AfId": null,
+                    "S": 1
+                }
+            ],
+            "F": [
+                {
+                    "DFN": "Philosophy",
+                    "FN": "philosophy",
+                    "FId": 138885662
+                },
+                {
+                    "DFN": "Literature",
+                    "FN": "literature",
+                    "FId": 124952713
+                },
+                {
+                    "DFN": "Cognitive science",
+                    "FN": "cognitive science",
+                    "FId": 188147891
+                }
+            ]
+        },
+        {
+            "logprob": -47.712,
+            "prob": 0.0,
+            "Id": 2497139909,
+            "Ti": "philosophy of the human mind",
+            "Y": 1803,
+            "CC": 0,
+            "ECC": 0,
+            "DOI": "10.1037/11673-001",
+            "AA": [
+                {
+                    "DAuN": "Samuel Miller",
+                    "AuN": "samuel miller",
+                    "AuId": 2501740935,
+                    "AfId": null,
+                    "S": 1
+                }
+            ],
+            "F": [
+                {
+                    "DFN": "Neurophilosophy",
+                    "FN": "neurophilosophy",
+                    "FId": 94097772
+                },
+                {
+                    "DFN": "Western philosophy",
+                    "FN": "western philosophy",
+                    "FId": 170143251
+                },
+                {
+                    "DFN": "Philosophy of psychology",
+                    "FN": "philosophy of psychology",
+                    "FId": 90477839
+                },
+                {
+                    "DFN": "Emergent materialism",
+                    "FN": "emergent materialism",
+                    "FId": 205534843
+                },
+                {
+                    "DFN": "Computational theory of mind",
+                    "FN": "computational theory of mind",
+                    "FId": 55520563
+                },
+                {
+                    "DFN": "Philosophy of sport",
+                    "FN": "philosophy of sport",
+                    "FId": 514839276
+                },
+                {
+                    "DFN": "Philosophy of mind",
+                    "FN": "philosophy of mind",
+                    "FId": 24726157
+                },
+                {
+                    "DFN": "Mental representation",
+                    "FN": "mental representation",
+                    "FId": 96199812
+                },
+                {
+                    "DFN": "Epistemology",
+                    "FN": "epistemology",
+                    "FId": 111472728
+                },
+                {
+                    "DFN": "Cognitive science",
+                    "FN": "cognitive science",
+                    "FId": 188147891
+                },
+                {
+                    "DFN": "Philosophy",
+                    "FN": "philosophy",
+                    "FId": 138885662
+                }
+            ]
+        },
+        {
+            "logprob": -47.842,
+            "prob": 0.0,
+            "Id": 3024677015,
+            "Ti": "a concise history of the principal discoveries in anatomy",
+            "Y": 1800,
+            "CC": 0,
+            "ECC": 0,
+            "S": [
+                {
+                    "Ty": 1,
+                    "U": "https://pubmed.ncbi.nlm.nih.gov/30490154/"
+                },
+                {
+                    "Ty": 1,
+                    "U": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5659392"
+                }
+            ],
+            "AA": [
+                {
+                    "DAuN": "Curt Sprengel",
+                    "AuN": "curt sprengel",
+                    "AuId": 3025331692,
+                    "AfId": null,
+                    "S": 1
+                }
+            ],
+            "F": [
+                {
+                    "DFN": "Principal (computer security)",
+                    "FN": "principal",
+                    "FId": 144559511
+                },
+                {
+                    "DFN": "MEDLINE",
+                    "FN": "medline",
+                    "FId": 2779473830
+                },
+                {
+                    "DFN": "Cognitive science",
+                    "FN": "cognitive science",
+                    "FId": 188147891
+                },
+                {
+                    "DFN": "History",
+                    "FN": "history",
+                    "FId": 95457728
+                }
+            ]
+        },
+        {
+            "logprob": -47.842,
+            "prob": 0.0,
+            "Id": 2748079070,
+            "Ti": "review of kenneth logan true letters from a fictional life harperteen 2016",
+            "Y": 1800,
+            "CC": 0,
+            "ECC": 0,
+            "S": [
+                {
+                    "Ty": 1,
+                    "U": "https://nyuscholars.nyu.edu/en/publications/review-of-kenneth-logan-itrue-letters-from-a-fictional-lifei-harp"
+                }
+            ],
+            "AA": [
+                {
+                    "DAuN": "Lisa Stulberg",
+                    "AuN": "lisa stulberg",
+                    "AuId": 2748118338,
+                    "AfId": null,
+                    "S": 1
+                }
+            ],
+            "F": [
+                {
+                    "DFN": "Art history",
+                    "FN": "art history",
+                    "FId": 52119013
+                },
+                {
+                    "DFN": "Performance art",
+                    "FN": "performance art",
+                    "FId": 554144382
+                },
+                {
+                    "DFN": "History",
+                    "FN": "history",
+                    "FId": 95457728
+                },
+                {
+                    "DFN": "Cognitive science",
+                    "FN": "cognitive science",
+                    "FId": 188147891
+                }
+            ]
+        }
+    ],
+    "timed_out": false
+}
