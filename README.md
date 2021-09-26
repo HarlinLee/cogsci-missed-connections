@@ -9,4 +9,4 @@ a.k.a. searching for missed connections in academic subfields
 
 Lu Cheng, Girish Ganesan, William He, Daniel Silverston, Harlin Lee, and Jacob G. Foster. 2021.
 
-Citation information and link to the paper will be here soon.
+Citation information will be here soon. Preprint: https://math.ucla.edu/~harlin/papers/cogsci.pdf
