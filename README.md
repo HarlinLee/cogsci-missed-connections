@@ -9,4 +9,4 @@ a.k.a. searching for missed connections in academic subfields
 
 Lu Cheng, Girish Ganesan, William He, Daniel Silverston, Harlin Lee, and Jacob G. Foster. 2021.
 
-Presented at NeurIPS 2021 AI for Science Workshop. Read the paper at: https://openreview.net/pdf?id=yzVECygEpF_
+Presented at NeurIPS 2021 AI for Science Workshop. Read the paper [here](https://openreview.net/pdf?id=yzVECygEpF_).
