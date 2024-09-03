@@ -1,4 +1,4 @@
-# Joint Content-Context Analysis of Scientific Publications
+# [Joint Content-Context Analysis of Scientific Publications](https://openreview.net/pdf?id=yzVECygEpF_)
 
 ## Identifying Opportunities for Collaboration in Cognitive Science
 a.k.a. searching for missed connections in academic subfields
@@ -9,4 +9,4 @@ a.k.a. searching for missed connections in academic subfields
 
 Lu Cheng, Girish Ganesan, William He, Daniel Silverston, Harlin Lee, and Jacob G. Foster. 2021.
 
-Citation information will be here soon. Preprint: https://math.ucla.edu/~harlin/papers/cogsci.pdf
+Presented at NeurIPS 2021 AI for Science Workshop. Read the paper at: https://openreview.net/pdf?id=yzVECygEpF_
